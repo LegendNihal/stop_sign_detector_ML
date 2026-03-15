@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>3729749</id>
+      <size>50</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-03-14 07:04:38.488801+00:00</created>
+      <updated>2026-03-14 07:20:58.017996+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>49</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>3729051</id>
+          <start>0</start>
+          <stop>49</stop>
+          <url>https://app.cvat.ai/api/jobs/3729749/dataset/export/api/jobs/3729749</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>legendnihal</username>
+        <email>versitynihal@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>stop_sign</name>
+          <color>#fa3253</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2026-03-14 07:23:46.046550+00:00</dumped>
+  </meta>
+  <image id="0" name="stop_sign_01.jpg" width="848" height="1280">
+    <box label="stop_sign" source="manual" occluded="0" xtl="586.61" ytl="880.98" xbr="669.64" ybr="957.72" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="stop_sign_02.jpg" width="1280" height="850">
+    <box label="stop_sign" source="manual" occluded="0" xtl="680.80" ytl="68.27" xbr="934.58" ybr="357.72" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="stop_sign_03.jpg" width="194" height="259">
+    <box label="stop_sign" source="manual" occluded="0" xtl="78.04" ytl="88.97" xbr="133.63" ybr="149.53" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="stop_sign_04.jpg" width="275" height="183">
+    <box label="stop_sign" source="manual" occluded="0" xtl="138.04" ytl="67.69" xbr="176.88" ybr="146.03" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="stop_sign_05.jpg" width="271" height="186">
+    <box label="stop_sign" source="manual" occluded="0" xtl="51.76" ytl="53.97" xbr="68.26" ybr="74.93" z_order="0">
+    </box>
+    <box label="stop_sign" source="manual" occluded="0" xtl="187.36" ytl="57.31" xbr="208.77" ybr="78.72" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="stop_sign_06.jpg" width="612" height="408">
+    <box label="stop_sign" source="manual" occluded="0" xtl="462.53" ytl="134.51" xbr="511.45" ybr="186.86" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="stop_sign_07.jpg" width="866" height="1390">
+    <box label="stop_sign" source="manual" occluded="0" xtl="309.67" ytl="386.67" xbr="614.67" ybr="618.33" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="stop_sign_08.jpg" width="194" height="259">
+    <box label="stop_sign" source="manual" occluded="0" xtl="76.80" ytl="15.06" xbr="132.70" ybr="74.69" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="stop_sign_09.jpg" width="1429" height="955">
+    <box label="stop_sign" source="manual" occluded="0" xtl="733.36" ytl="100.24" xbr="885.65" ybr="399.11" z_order="0">
+    </box>
+    <box label="stop_sign" source="manual" occluded="0" xtl="416.17" ytl="358.92" xbr="555.87" ybr="637.29" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="stop_sign_10.jpg" width="259" height="194">
+    <box label="stop_sign" source="manual" occluded="0" xtl="106.60" ytl="75.82" xbr="164.05" ybr="138.86" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="stop_sign_11.jpg" width="225" height="225">
+    <box label="stop_sign" source="manual" occluded="0" xtl="160.93" ytl="17.94" xbr="213.26" ybr="74.86" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="stop_sign_12.jpg" width="4928" height="3264">
+    <box label="stop_sign" source="manual" occluded="0" xtl="922.19" ytl="1225.10" xbr="2530.70" ybr="2958.86" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="stop_sign_13.jpg" width="840" height="1100">
+    <box label="stop_sign" source="manual" occluded="0" xtl="321.09" ytl="269.12" xbr="516.30" ybr="456.42" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="stop_sign_14.jpg" width="418" height="650">
+    <box label="stop_sign" source="manual" occluded="0" xtl="132.63" ytl="158.19" xbr="220.70" ybr="268.86" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="stop_sign_15.jpg" width="960" height="720">
+    <box label="stop_sign" source="manual" occluded="0" xtl="736.40" ytl="199.42" xbr="812.37" ybr="360.86" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="stop_sign_16.jpg" width="320" height="158">
+    <box label="stop_sign" source="manual" occluded="0" xtl="55.19" ytl="56.06" xbr="78.35" ybr="81.90" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="stop_sign_17.jpg" width="275" height="183">
+    <box label="stop_sign" source="manual" occluded="0" xtl="224.93" ytl="66.60" xbr="265.09" ybr="106.75" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="stop_sign_18.jpg" width="275" height="183">
+    <box label="stop_sign" source="manual" occluded="0" xtl="38.86" ytl="22.05" xbr="84.06" ybr="63.09" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="stop_sign_19.jpg" width="291" height="173">
+    <box label="stop_sign" source="manual" occluded="0" xtl="214.27" ytl="16.28" xbr="244.35" ybr="45.73" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="stop_sign_20.jpg" width="300" height="168">
+    <box label="stop_sign" source="manual" occluded="0" xtl="248.10" ytl="29.60" xbr="275.50" ybr="56.39" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="stop_sign_21.jpg" width="275" height="183">
+    <box label="stop_sign" source="manual" occluded="0" xtl="237.00" ytl="41.14" xbr="262.02" ybr="68.35" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="stop_sign_22.jpg" width="400" height="245">
+    <box label="stop_sign" source="manual" occluded="0" xtl="47.24" ytl="54.20" xbr="81.32" ybr="89.46" z_order="0">
+    </box>
+    <box label="stop_sign" source="manual" occluded="0" xtl="332.49" ytl="61.26" xbr="349.82" ybr="79.47" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="stop_sign_23.jpg" width="275" height="183">
+    <box label="stop_sign" source="manual" occluded="0" xtl="130.14" ytl="62.87" xbr="178.20" ybr="126.06" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="stop_sign_24.jpg" width="800" height="600">
+    <box label="stop_sign" source="manual" occluded="0" xtl="642.45" ytl="206.47" xbr="780.58" ybr="333.81" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="stop_sign_25.jpg" width="285" height="177">
+    <box label="stop_sign" source="manual" occluded="0" xtl="57.50" ytl="62.72" xbr="103.77" ybr="110.05" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="stop_sign_26.jpg" width="275" height="183">
+    <box label="stop_sign" source="manual" occluded="0" xtl="204.75" ytl="40.70" xbr="232.39" ybr="77.57" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="stop_sign_27.jpg" width="640" height="359">
+    <box label="stop_sign" source="manual" occluded="0" xtl="116.83" ytl="32.50" xbr="185.27" ybr="112.57" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="stop_sign_28.jpg" width="1300" height="956">
+    <box label="stop_sign" source="manual" occluded="0" xtl="835.73" ytl="225.80" xbr="1045.50" ybr="445.88" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="stop_sign_29.jpg" width="299" height="168">
+    <box label="stop_sign" source="manual" occluded="0" xtl="170.95" ytl="48.56" xbr="205.40" ybr="83.59" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="stop_sign_30.jpg" width="175" height="289">
+    <box label="stop_sign" source="manual" occluded="0" xtl="82.82" ytl="130.82" xbr="142.08" ybr="211.90" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="stop_sign_31.jpg" width="612" height="408">
+    <box label="stop_sign" source="manual" occluded="0" xtl="536.40" ytl="139.40" xbr="578.47" ybr="172.67" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="stop_sign_32.jpg" width="446" height="320">
+    <box label="stop_sign" source="manual" occluded="0" xtl="155.45" ytl="41.84" xbr="189.60" ybr="78.68" z_order="0">
+    </box>
+    <box label="stop_sign" source="manual" occluded="0" xtl="191.14" ytl="32.98" xbr="226.05" ybr="71.00" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="stop_sign_33.jpg" width="612" height="459">
+    <box label="stop_sign" source="manual" occluded="0" xtl="253.74" ytl="256.22" xbr="283.46" ybr="288.69" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="stop_sign_34.jpg" width="284" height="178">
+    <box label="stop_sign" source="manual" occluded="0" xtl="217.34" ytl="21.99" xbr="246.58" ybr="52.72" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="stop_sign_35.jpg" width="620" height="350">
+    <box label="stop_sign" source="manual" occluded="0" xtl="22.94" ytl="32.72" xbr="81.70" ybr="112.04" z_order="0">
+    </box>
+    <box label="stop_sign" source="manual" occluded="0" xtl="579.84" ytl="80.98" xbr="599.98" ybr="106.58" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="stop_sign_36.JPG" width="2000" height="1333">
+    <box label="stop_sign" source="manual" occluded="0" xtl="899.28" ytl="389.25" xbr="1084.68" ybr="569.86" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="stop_sign_37.jpg" width="975" height="1390">
+    <box label="stop_sign" source="manual" occluded="0" xtl="183.33" ytl="68.33" xbr="771.67" ybr="653.33" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="stop_sign_38.jpg" width="1024" height="614">
+    <box label="stop_sign" source="manual" occluded="0" xtl="646.70" ytl="194.37" xbr="801.31" ybr="367.38" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="stop_sign_39.jpg" width="272" height="185">
+    <box label="stop_sign" source="manual" occluded="0" xtl="13.33" ytl="2.55" xbr="107.82" ybr="101.26" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="stop_sign_40.jpg" width="612" height="408">
+    <box label="stop_sign" source="manual" occluded="0" xtl="69.20" ytl="65.04" xbr="259.50" ybr="258.77" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="stop_sign_41.jpg" width="300" height="168">
+    <box label="stop_sign" source="manual" occluded="0" xtl="207.01" ytl="61.43" xbr="279.73" ybr="126.72" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="stop_sign_42.jpg" width="500" height="500">
+    <box label="stop_sign" source="manual" occluded="0" xtl="215.20" ytl="136.67" xbr="346.50" ybr="270.96" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="stop_sign_43.jpg" width="286" height="176">
+    <box label="stop_sign" source="manual" occluded="0" xtl="178.03" ytl="46.85" xbr="199.76" ybr="77.87" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="stop_sign_44.jpg" width="275" height="183">
+    <box label="stop_sign" source="manual" occluded="0" xtl="132.34" ytl="40.70" xbr="210.67" ybr="126.06" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="stop_sign_45.jpg" width="612" height="408">
+    <box label="stop_sign" source="manual" occluded="0" xtl="119.10" ytl="8.79" xbr="153.84" ybr="46.45" z_order="0">
+    </box>
+    <box label="stop_sign" source="manual" occluded="0" xtl="532.48" ytl="44.99" xbr="571.62" ybr="85.59" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="stop_sign_46.jpg" width="612" height="408">
+    <box label="stop_sign" source="manual" occluded="0" xtl="347.07" ytl="47.92" xbr="522.21" ybr="230.89" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="stop_sign_47.jpg" width="612" height="408">
+    <box label="stop_sign" source="manual" occluded="0" xtl="31.04" ytl="76.30" xbr="108.34" ybr="159.95" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="stop_sign_48.jpg" width="866" height="1390">
+    <box label="stop_sign" source="manual" occluded="0" xtl="309.67" ytl="168.33" xbr="559.67" ybr="410.00" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="stop_sign_49.jpg" width="612" height="408">
+    <box label="stop_sign" source="manual" occluded="0" xtl="517.81" ytl="127.17" xbr="569.17" ybr="176.09" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="stop_sign_50.jpg" width="1300" height="1090">
+    <box label="stop_sign" source="manual" occluded="0" xtl="589.92" ytl="43.09" xbr="869.61" ybr="314.94" z_order="0">
+    </box>
+    <box label="stop_sign" source="manual" occluded="0" xtl="984.62" ytl="165.94" xbr="1208.11" ybr="392.05" z_order="0">
+    </box>
+  </image>
+</annotations>
